@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\OOP\\Preactice 11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5783F1CD-215A-4A78-BBD5-3EF3AB7F4E9E}|Preactice 11.vcxproj|D:\\OOP\\Preactice 11\\practice11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5783F1CD-215A-4A78-BBD5-3EF3AB7F4E9E}|Preactice 11.vcxproj|solutionrelative:practice11.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "practice11.cpp",
+              "DocumentMoniker": "D:\\OOP\\Preactice 11\\practice11.cpp",
+              "RelativeDocumentMoniker": "practice11.cpp",
+              "ToolTip": "D:\\OOP\\Preactice 11\\practice11.cpp",
+              "RelativeToolTip": "practice11.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAswE0AAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-09T09:39:45.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

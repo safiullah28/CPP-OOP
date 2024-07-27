@@ -1,0 +1,5 @@
+﻿  practice11.cpp
+D:\OOP\Preactice 11\practice11.cpp(68,13): error C2535: 'IntegerSet IntegerSet::operator =(const IntegerSet &)': member function already defined or declared
+  D:\OOP\Preactice 11\practice11.cpp(58,13):
+  see declaration of 'IntegerSet::operator ='
+  

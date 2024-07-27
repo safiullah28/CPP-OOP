@@ -1,0 +1,12 @@
+﻿  lab12.cpp
+D:\OOP\Lab 12\lab12.cpp(71,7): warning C4101: 'newsize': unreferenced local variable
+  D:\OOP\Lab 12\lab12.cpp(71,7):
+  the template instantiation context (the oldest one first) is
+  	D:\OOP\Lab 12\lab12.cpp(161,20):
+  	see reference to class template instantiation 'GenericArray<int>' being compiled
+  	D:\OOP\Lab 12\lab12.cpp(68,15):
+  	while compiling class template member function 'GenericArray<int> GenericArray<int>::operator +(const GenericArray<int> &)'
+  		D:\OOP\Lab 12\lab12.cpp(187,34):
+  		see the first reference to 'GenericArray<int>::operator +' in 'main'
+  
+  Lab 12.vcxproj -> D:\OOP\Lab 12\x64\Debug\Lab 12.exe

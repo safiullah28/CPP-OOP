@@ -1,0 +1,3 @@
+﻿  practicee13.cpp
+D:\OOP\Practice13\practicee13.cpp(53,70): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Practice13.vcxproj -> D:\OOP\Practice13\x64\Debug\Practice13.exe
